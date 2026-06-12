@@ -69,7 +69,7 @@ public class QuestionService {
         return new ResponseEntity<>(questionWrappers, HttpStatus.OK);
     }
 
-    public ResponseEntity<String> getScore(List<Response> responses) {
+    public ResponseEntity<Integer> getScore(List<Response> responses) {
         // TODO Auto-generated method stub
         int right=0;
         for(Response response: responses){
@@ -78,6 +78,6 @@ public class QuestionService {
                 right++;
             }
         }
-        throw new UnsupportedOperationException("Unimplemented method 'getScore'");
+        return new ResponseEntity<>(right, HttpStatus.OK);
     }
 }

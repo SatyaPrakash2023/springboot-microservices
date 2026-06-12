@@ -45,7 +45,7 @@ public class Questioncontroller {
     //GetScore
 
     @GetMapping("/generate")
-    public ResponseEntity<List<Integer>> generateQuestionForQuiz(@RequestBody String categoryName,@RequestParam Integer numQuestions) {
+    public ResponseEntity<List<Integer>> generateQuestionForQuiz(@RequestParam String categoryName,@RequestParam Integer numQuestions) {
         return questionService.getQuestionsForQuiz(categoryName, numQuestions);
     }
 
@@ -56,7 +56,7 @@ public class Questioncontroller {
     }
 
     @PostMapping("/getScore")
-    public ResponseEntity<String> getScore(@RequestParam List<Response> responses) {
+    public ResponseEntity<Integer> getScore(@RequestParam List<Response> responses) {
         // Implementation for calculating the score based on user answers
         return questionService.getScore(responses);
     }

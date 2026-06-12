@@ -1,0 +1,198 @@
+[
+  {
+    "questionTitle": "What is JVM in Java?",
+    "option1": "Java Virtual Machine",
+    "option2": "Java Variable Method",
+    "option3": "Java Version Manager",
+    "option4": "Java Verified Module",
+    "rightAnswer": "Java Virtual Machine",
+    "difficultylevel": "Easy",
+    "category": "Java"
+  },
+  {
+    "questionTitle": "Which keyword is used to inherit a class in Java?",
+    "option1": "implements",
+    "option2": "inherits",
+    "option3": "extends",
+    "option4": "super",
+    "rightAnswer": "extends",
+    "difficultylevel": "Easy",
+    "category": "Java"
+  },
+  {
+    "questionTitle": "Which collection does not allow duplicate elements?",
+    "option1": "List",
+    "option2": "ArrayList",
+    "option3": "Set",
+    "option4": "Vector",
+    "rightAnswer": "Set",
+    "difficultylevel": "Medium",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "Which annotation is used to create a REST API controller?",
+    "option1": "@Controller",
+    "option2": "@Service",
+    "option3": "@RestController",
+    "option4": "@Component",
+    "rightAnswer": "@RestController",
+    "difficultylevel": "Easy",
+    "category": "Spring Boot"
+  },
+  {
+    "questionTitle": "Which annotation is used for dependency injection?",
+    "option1": "@Autowired",
+    "option2": "@Injectable",
+    "option3": "@Bean",
+    "option4": "@Qualifier",
+    "rightAnswer": "@Autowired",
+    "difficultylevel": "Easy",
+    "category": "Spring Boot"
+  },
+  {
+    "questionTitle": "Which file is commonly used for Spring Boot configuration?",
+    "option1": "application.properties",
+    "option2": "config.xml",
+    "option3": "spring.config",
+    "option4": "boot.properties",
+    "rightAnswer": "application.properties",
+    "difficultylevel": "Medium",
+    "category": "Spring Boot"
+  },
+
+  {
+    "questionTitle": "Which SQL command is used to retrieve data?",
+    "option1": "INSERT",
+    "option2": "UPDATE",
+    "option3": "SELECT",
+    "option4": "DELETE",
+    "rightAnswer": "SELECT",
+    "difficultylevel": "Easy",
+    "category": "Database"
+  },
+  {
+    "questionTitle": "Which SQL clause is used to filter records?",
+    "option1": "GROUP BY",
+    "option2": "ORDER BY",
+    "option3": "WHERE",
+    "option4": "HAVING",
+    "rightAnswer": "WHERE",
+    "difficultylevel": "Easy",
+    "category": "Database"
+  },
+  {
+    "questionTitle": "Which type of JOIN returns matching records from both tables?",
+    "option1": "LEFT JOIN",
+    "option2": "RIGHT JOIN",
+    "option3": "INNER JOIN",
+    "option4": "FULL JOIN",
+    "rightAnswer": "INNER JOIN",
+    "difficultylevel": "Medium",
+    "category": "Database"
+  },
+
+  {
+    "questionTitle": "What does HTML stand for?",
+    "option1": "Hyper Text Markup Language",
+    "option2": "High Text Machine Language",
+    "option3": "Hyper Transfer Markup Language",
+    "option4": "Home Tool Markup Language",
+    "rightAnswer": "Hyper Text Markup Language",
+    "difficultylevel": "Easy",
+    "category": "Web Development"
+  },
+  {
+    "questionTitle": "Which CSS property changes text color?",
+    "option1": "background-color",
+    "option2": "font-color",
+    "option3": "color",
+    "option4": "text-style",
+    "rightAnswer": "color",
+    "difficultylevel": "Easy",
+    "category": "Web Development"
+  },
+  {
+    "questionTitle": "Which JavaScript keyword declares a block-scoped variable?",
+    "option1": "var",
+    "option2": "const",
+    "option3": "let",
+    "option4": "Both let and const",
+    "rightAnswer": "Both let and const",
+    "difficultylevel": "Medium",
+    "category": "Web Development"
+  },
+
+  {
+    "questionTitle": "Which protocol is primarily used for secure web communication?",
+    "option1": "HTTP",
+    "option2": "FTP",
+    "option3": "HTTPS",
+    "option4": "SMTP",
+    "rightAnswer": "HTTPS",
+    "difficultylevel": "Easy",
+    "category": "Networking"
+  },
+  {
+    "questionTitle": "What does IP stand for?",
+    "option1": "Internet Protocol",
+    "option2": "Internal Protocol",
+    "option3": "Internet Process",
+    "option4": "Internal Process",
+    "rightAnswer": "Internet Protocol",
+    "difficultylevel": "Easy",
+    "category": "Networking"
+  },
+  {
+    "questionTitle": "Which device forwards packets between networks?",
+    "option1": "Switch",
+    "option2": "Hub",
+    "option3": "Router",
+    "option4": "Repeater",
+    "rightAnswer": "Router",
+    "difficultylevel": "Medium",
+    "category": "Networking"
+  }
+]
+[
+  {
+    "questionTitle": "What is JVM in Java?",
+    "option1": "Java Virtual Machine",
+    "option2": "Java Variable Method",
+    "option3": "Java Verified Module",
+    "option4": "Java Version Manager",
+    "rightAnswer": "Java Virtual Machine",
+    "difficultylevel": "Easy",
+    "category": "Java"
+  },
+  {
+    "questionTitle": "Which annotation is used to create a REST API controller in Spring Boot?",
+    "option1": "@Controller",
+    "option2": "@Service",
+    "option3": "@RestController",
+    "option4": "@Component",
+    "rightAnswer": "@RestController",
+    "difficultylevel": "Medium",
+    "category": "Spring Boot"
+  }
+]
+{
+  "questionTitle": "What is JVM in Java?",
+  "option1": "Java Virtual Machine",
+  "option2": "Java Variable Method",
+  "option3": "Java Verified Module",
+  "option4": "Java Version Manager",
+  "rightAnswer": "Java Virtual Machine",
+  "difficultylevel": "Easy",
+  "category": "Java"
+}
+{
+  "questionTitle": "What is JVM in Java?",
+  "option1": "Java Virtual Machine",
+  "option2": "Java Variable Method",
+  "option3": "Java Verified Module",
+  "option4": "Java Version Manager",
+  "rightAnswer": "Java Virtual Machine",
+  "difficultylevel": "Easy",
+  "category": "Java"
+}
