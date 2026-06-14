@@ -23,6 +23,6 @@ public interface QuizInterface {
         
 
     @PostMapping("questions/getScore")
-    public ResponseEntity<Integer> getScore(@RequestParam List<Response> responses);
+    public ResponseEntity<Integer> getScore(@RequestBody List<Response> responses);
 
 }

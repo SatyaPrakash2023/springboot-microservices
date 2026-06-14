@@ -56,7 +56,7 @@ public class Questioncontroller {
     }
 
     @PostMapping("/getScore")
-    public ResponseEntity<Integer> getScore(@RequestParam List<Response> responses) {
+    public ResponseEntity<Integer> getScore(@RequestBody List<Response> responses) {
         // Implementation for calculating the score based on user answers
         return questionService.getScore(responses);
     }
